@@ -1,0 +1,2 @@
+# -canvas-
+Lean Canvas (imagen)
